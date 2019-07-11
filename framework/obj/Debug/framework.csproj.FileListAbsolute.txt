@@ -1,0 +1,15 @@
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\framework.exe.config
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\framework.exe
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\framework.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\obj\Debug\framework.csprojAssemblyReference.cache
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\obj\Debug\framework.exe
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\obj\Debug\framework.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Standard.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Core.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\netstandard.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Standard.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Core.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\obj\Debug\framework.csproj.CopyComplete
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Core22.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\framework\bin\Debug\Core22.pdb

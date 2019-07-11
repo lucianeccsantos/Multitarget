@@ -1,0 +1,9 @@
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\bin\Debug\netcoreapp2.2\Core22.deps.json
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\bin\Debug\netcoreapp2.2\Core22.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\bin\Debug\netcoreapp2.2\Core22.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.csproj.CoreCompileInputs.cache
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.AssemblyInfoInputs.cache
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.AssemblyInfo.cs
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.dll
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.pdb
+C:\Users\04724776927\Desktop\Luciane\Fabrica de Monstros\MultiTarget\Core22\obj\Debug\netcoreapp2.2\Core22.csprojAssemblyReference.cache
